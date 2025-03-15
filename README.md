@@ -4,11 +4,17 @@ A simple project management application using Laravel 11 and React.
 The project was developed for the following YouTube tutorial.
 
 Features
+
 Registration & Login
+
 Projects CRUD with sorting, filtering and pagination
+
 Tasks CRUD with sorting, filtering and pagination
+
 Create Tasks inside project
+
 Show all tasks or show tasks for a specific project
+
 Assign users to tasks
 View Tasks assigned to me
 Show dashboard with overview information
